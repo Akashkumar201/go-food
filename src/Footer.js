@@ -1,5 +1,5 @@
 import React from 'react'
-import gif from '../src/images/giphy.gif'
+import gif from '../src/img/giphy.gif'
 import "./index.css"
 
 
