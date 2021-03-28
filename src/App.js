@@ -11,8 +11,8 @@ const App = () => {
   const [recipes, setRecipes] = useState([]);
 
 
-  const App_id = "a6587822";
-  const App_key = "7a36e78afdd61bb1b7db9943886ab34f";
+  const App_id = "Your Api id from edamam.com;
+  const App_key = "Your Api key from edamam.com";
 
   useEffect(() => {
     getRecipe();
